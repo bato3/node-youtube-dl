@@ -14,6 +14,12 @@ With [npm](https://www.npmjs.com/) do:
 npm install @microlink/youtube-dl
 ```
 
+### Additional ENV configuration
+
+`ytdlModuleCwd` - Path to local [youtube-dl](http://rg3.github.com/youtube-dl/)  repository.
+`ytdlBinary` - Binary which module should use.
+
+
 ## Usage
 
 ### Downloading videos
